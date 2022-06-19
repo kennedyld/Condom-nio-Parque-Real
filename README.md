@@ -1,2 +1,2 @@
-# Condom-nio-Parque-Real
+# Condominio-Parque-Real
 Software do condomínio
